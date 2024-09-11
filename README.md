@@ -16,7 +16,7 @@
 
  📫 How to reach me shashwat.panigrahi@stonybrook.edu
 
-⚡ Fun fact ****
+⚡ Fun fact **An F1 car can drive upside down in a tunnel at 120 mph due to its extreme downforce!**
 
  </div>
 
