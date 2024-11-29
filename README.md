@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Codeup**
  
- 🌱 I’m currently learning **Langchain, LLM's, IBM Watson**
+ 🌱 I’m currently learning **Machine Learning and Data Science**
 
  📫 How to reach me shashwat.panigrahi@stonybrook.edu
 
